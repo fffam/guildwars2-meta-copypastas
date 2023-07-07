@@ -1,0 +1,237 @@
+{
+  "tripletrouble": {
+    "name": "Triple Trouble",
+    "map": "Bloodtide Coast",
+    "waypoint": "[&BKoBAAA=]",
+    "timetaken": "~35 minutes",
+    "color": "35,88,23",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-tripletrouble.png?v=1675214845365"
+  },
+  "dbs": {
+    "name": "Death-Branded Shatterer",
+    "map": "Jahai Bluffs",
+    "dlc": "Living World Season 4 Episode 4",
+    "waypoint": "[&BJMLAAA=]",
+    "timetaken": "~10 minutes",
+    "color": "83,43,108",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-dbs.png?v=1675205781498"
+  },
+  "bfla": {
+    "name": "Battle for Lion's Arch",
+    "map": "Eye of the North",
+    "waypoint": "[&BAkMAAA=]",
+    "timetaken": "~16 minutes",
+    "notes": "Join the meta by talking to the Mist Stranger in Eye of the North (or accept popup prompt). Part of Living World Season 1 and available to all players.",
+    "color": "108,26,36",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-bfla.png?v=1675211490850"
+  },
+  "octovine": {
+    "name": "Octovine",
+    "map": "Auric Basin",
+    "waypoint": "[&BAIIAAA=]",
+    "timetaken": "15 mins",
+    "dlc": "Heart of Thorns",
+    "notes": "",
+    "color": "106,113,47",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-octovine.png?v=1675271796471"
+  },
+  "drakkar" : {
+    "name": "Drakkar",
+    "map": "Bjora Marches",
+    "waypoint": "[&BDkMAAA=]",
+    "timetaken": "20 minutes",
+    "dlc": "Living World Season 5 (Icebrood Saga) Episode 2",
+    "notes": "",
+    "color": "71,140,180",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-drakkar.png?v=1675271746056"
+  },
+  "aetherblade": {
+    "name": "Aetherblade Assault",
+    "map": "Seitung Province",
+    "waypoint": "[&BGUNAAA=]",
+    "timetaken": "25 minutes",
+    "dlc": "End of Dragons",
+    "notes": "",
+    "color": "52,113,47"
+  },
+  "dragonstorm": {
+    "name": "Dragonstorm",
+    "map": "Eye of the North",
+    "waypoint": "[&BAkMAAA=]",
+    "timetaken": "~16 minutes",
+    "dlc": "Living World Season 5 (Icebrood Saga) Episode 5",
+    "notes": "Includes giant spoilers for Icebrood Saga! Consider skipping if you do not want the story to be spoiled.",
+    "color": "44,118,145"
+  },
+  "pinata": {
+    "name": "Choya Piñata",
+    "map": "Crystal Oasis",
+    "waypoint": "[&BLsKAAA=]",
+    "timetaken": "~16 minutes",
+    "dlc": "Living World Season 5 (Icebrood Saga) Episode 5",
+    "notes": "",
+    "color": "112,110,44",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-pinata.png?v=1675271808550"
+  },
+  "vbtetrad": {
+    "name": "Mordrem Tetrad (night boss)",
+    "map": "Verdant Brink",
+    "waypoint": "[&BNUHAAA=]",
+    "timetaken": "5 minutes",
+    "dlc": "Heart of Thorns",
+    "notes": "From waypoint, go east, interact with chopper and pick 'Go up to canopy' (Bouncing mushroom mastery is required)",
+    "color": "50,113,40",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-vb.png?v=1675271846456"
+  },
+  "gangwar": {
+    "name": "Gang War",
+    "map": "Echovald Forest",
+    "waypoint": "[&BMwMAAA=]",
+    "timetaken": "20 minutes",
+    "dlc": "End of Dragons",
+    "notes": "",
+    "color": "36,70,32",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-echovald.png?v=1675271749005"
+  },
+  "serpentsire": {
+    "name": "Serpent's Ire",
+    "map": "Domain of Vabbi",
+    "waypoint": "[&BHQKAAA=]",
+    "timetaken": "20 minutes",
+    "dlc": "Path of Fire",
+    "notes": "",
+    "color": "76,43,104"
+  },
+  "oozepits": {
+    "name": "Ooze Pits",
+    "map": "Grothmar Valley",
+    "waypoint": "[&BPgLAAA=]",
+    "timetaken": "10 minutes",
+    "dlc": "Living World Season 5 (Icebrood Saga) Prologue",
+    "notes": "",
+    "color": "103,88,32",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-oozepits.png?v=1675271798700"
+  },
+  "mawsoftorment": {
+    "name": "Maws of Torment",
+    "map": "The Desolation",
+    "waypoint": "[&BKMKAAA=]",
+    "timetaken": "5 minutes",
+    "dlc": "Path of Fire",
+    "notes": "To speed up meta, split between the 3 pillars and use turtle slam to spawn miniboss (unless someone is doing the escorts for achievements).",
+    "color": "121,117,32",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-desolation.png?v=1675271613862"
+  },
+  "palawadan": {
+    "name": "Palawadan",
+    "map": "Domain of Istan",
+    "waypoint": "[&BAkLAAA=]",
+    "timetaken": "15 minutes",
+    "dlc": "Living World Season 4 Episode 1",
+    "notes": "The ships phase of the meta is bugged. Players need to go to character select and back so they can attack the middle ship.",
+    "color": "135,94,57",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-palawadan.png?v=1675271805703"
+  },
+  "doppelganger": {
+    "name": "Doppelganger",
+    "map": "Elon Riverlands",
+    "waypoint": "[&BFMKAAA=]",
+    "timetaken": "5 minutes",
+    "dlc": "Path of Fire",
+    "notes": "After collecting magic, one player will be picked to be the doppelganger. Be ready on your jackal; If you get picked, then go through the jackal portal and engage the boss!",
+    "color": "95,105,45",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-doppelganger.png?v=1675271623871"
+  },
+  "tequatl": {
+    "name": "Tequatl the Sunless",
+    "map": "Sparkfly Fen",
+    "waypoint": "[&BNABAAA=]",
+    "timetaken": "10 minutes",
+    "color": "43,104,66",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-teq.png?v=1675271841503"
+  },
+  "effigy": {
+    "name": "Flame Effigy",
+    "map": "Grothmar Valley",
+    "waypoint": "[&BBsMAAA=]",
+    "timetaken": "5 minutes",
+    "dlc": "Living World Season 5 (Icebrood Saga) Prologue",
+    "notes": "",
+    "color": "104,44,44",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-grothmar.png?v=1675271753978"
+  },
+  "anomalyironmarches": {
+    "name": "Ley-Line Anomaly",
+    "map": "Iron Marches",
+    "waypoint": "[&BOcBAAA=]",
+    "timetaken": "5 minutes",
+    "notes": "",
+    "color": "77,77,70"
+  },
+  "anomalygendarran": {
+    "name": "Ley-Line Anomaly",
+    "map": "Gendarran Fields",
+    "waypoint": "[&BJEBAAA=]",
+    "timetaken": "5 minutes",
+    "notes": "",
+    "color": "77,77,70"
+  },
+  "anomalytimberline": {
+    "name": "Ley-Line Anomaly",
+    "map": "Timberline Falls",
+    "waypoint": "[&BEwCAAA=]",
+    "timetaken": "5 minutes",
+    "notes": "",
+    "color": "77,77,70"
+  },
+  "chakgerent": {
+    "name": "Chak Gerent",
+    "map": "Tangled Depths",
+    "waypoint": "[&BPUHAAA=]",
+    "timetaken": "20 mins",
+    "dlc": "Heart of Thorns",
+    "notes": "",
+    "color": "43,105,100",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-chak.png?v=1675271611507"
+  },
+  "doomlore": {
+    "name": "Doomlore Shrine",
+    "map": "Grothmar Valley",
+    "waypoint": "[&BA4MAAA=]",
+    "timetaken": "12 minutes",
+    "dlc": "Living World Season 5 (Icebrood Saga) Prologue",
+    "notes": "",
+    "color": "104,44,44",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-grothmar.png?v=1675271753978"
+  },
+  "dragonsend": {
+    "name": "Battle for the Jade Sea",
+    "map": "Dragon's End",
+    "waypoint": "[&BPEMAAA=]",
+    "timetaken": "50 minutes",
+    "dlc": "End of Dragons",
+    "notes": "",
+    "color": "52,113,47"
+  },
+  "marionette": {
+    "name": "Twisted Marionette",
+    "map": "Eye of the North",
+    "waypoint": "[&BAkMAAA=]",
+    "timetaken": "20 minutes",
+    "notes": "Join the meta by talking to the Mist Stranger in Eye of the North (or accept popup prompt). Part of Living World Season 1 and available to all players.",
+    "color": "70,90,80",
+    "image": "https://cdn.glitch.global/4eb90c7c-ac2d-495d-891b-b6a74a0bde5a/meta-marionette.png?v=1675271781909"
+  },
+  "clawofjormag": {
+    
+  },
+  "karkaqueen": {
+    
+  },
+  "junundu": {
+    
+  },
+  "oilfloes": {
+    
+  }
+}
