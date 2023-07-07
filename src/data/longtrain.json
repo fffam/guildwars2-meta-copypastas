@@ -1,0 +1,30 @@
+{
+  "name": "Darens Long Train",
+  "bullets": [
+    "To join the train: /squadjoin Dahrens"
+  ],
+  "schedule": [
+    { "meta": "tripletrouble",    "start": "12:20", "timenote": "", "notes": "Run by DCAP guild (look in LFG for DCAP taxi)."},
+    { "meta": "octovine",         "start": "12:55", "timenote": ""},
+    { "meta": "drakkar",          "start": "13:10", "timenote": ""},
+    { "meta": "bfla",             "start": "16:45", "timenote": ""},
+    { "meta": "palawadan",        "start": "16:45", "timenote": ""},
+    { "meta": "doppelganger",     "start": "16:45", "timenote": ""},
+    { "meta": "pinata",           "start": "14:05", "timenote": ""},
+    { "meta": "vbtetrad",         "start": "14:20", "timenote": ""},
+    { "meta": "gangwar",          "start": "14:25", "timenote": ""},
+    { "meta": "serpentsire",      "start": "14:50", "timenote": ""},
+    { "meta": "oozepits",         "start": "15:05", "timenote": ""},
+    { "meta": "mawsoftorment",    "start": "15:10", "timenote": ""},
+    { "meta": "dbs",              "start": "15:15", "timenote": ""},
+    { "meta": "aetherblade",      "start": "15:25", "timenote": ""},
+    { "meta": "dragonstorm",      "start": "15:45", "timenote": ""},
+    { "meta": "tequatl",          "start": "16:00", "timenote": ""},
+    { "meta": "effigy",           "start": "16:10", "timenote": ""},
+    { "meta": "anomalygendarran", "start": "16:20", "timenote": ""},
+    { "meta": "chakgerent",       "start": "16:25", "timenote": ""},
+    { "meta": "doomlore",         "start": "16:35", "timenote": ""},
+    { "meta": "dragonsend",       "start": "16:45", "timenote": ""},
+    { "meta": "marionette",       "start": "17:45", "timenote": ""}
+  ]
+}

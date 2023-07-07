@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vite-raw-plugin": "^1.0.1",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.10.2",
+    "@vue/compiler-sfc": "^3.2.47",
+    "vite": "^2.9.15"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "glitch": {
+    "projectType": "generated_static",
+    "buildDirectory": "build"
+  }
+}
